@@ -1,0 +1,15 @@
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\bin\Debug\vp_assignment4.exe.config
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\bin\Debug\vp_assignment4.exe
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\bin\Debug\vp_assignment4.pdb
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.csproj.AssemblyReference.cache
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\App.g.cs
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4_MarkupCompile.cache
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4_MarkupCompile.lref
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\MainWindow.baml
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.g.resources
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.Properties.Resources.resources
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.csproj.GenerateResource.cache
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.csproj.CoreCompileInputs.cache
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.exe
+C:\Users\MASHHOOD FARQALEET\source\repos\vp_assignment4\obj\Debug\vp_assignment4.pdb
